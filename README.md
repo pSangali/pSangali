@@ -1,1 +1,1 @@
-# Olá, eu sou o [Pedro Sangali]👋
+# Olá, eu sou o Pedro Sangali👋
