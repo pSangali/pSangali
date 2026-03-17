@@ -22,15 +22,15 @@
 `Python` • `Pandas` • `SQL` • `Power BI` • `BI & Analytics`  
 
 **Currently exploring:**  
-`AI-powered automation` • `n8n workflows` • `data storytelling`
+`AI-powered automation` •
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnk1&theme=transparent&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pSangali&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pSangali&theme=transparent&layout=compact"/>
 </p>
 
 ---
