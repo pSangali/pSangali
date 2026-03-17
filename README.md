@@ -22,7 +22,7 @@
 `Python` • `Pandas` • `SQL` • `Power BI` • `BI & Analytics`  
 
 **Currently exploring:**  
-`AI-powered automation` •
+`AI-powered automation` 
 
 ---
 
