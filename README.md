@@ -33,14 +33,7 @@
 ### 🧰 My Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pycharm,git,powershell,vscode,linux,bots,md,mysql,notion,r,regex" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,git,powershell,vscode,linux,,mysql,r," />
   <br>
-  <img src="https://skillicons.dev/icons?i=githubactions,typescript,html,css,react,js,java,c,latex,npm,ps,aiscript,anaconda" />
+  <img src="https://skillicons.dev/icons?i=githubactions,java,anaconda" />
 </div>
-
-
----
-
-<a href="https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o/edit?tab=t.0">
-  <img src="book/JCD-capa.png" alt="Joven e a Corrida Pelo Dinheiro" width="120" align="left">
-</a>
