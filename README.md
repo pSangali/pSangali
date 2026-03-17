@@ -1,34 +1,48 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Baskerville&duration=2000&pause=7000&color=00FF00&width=435&center=true&lines=Hello+World+%F0%9F%91%8B+I'm+Pedro+Sangali" alt="Typing SVG">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Baskerville&duration=2000&pause=5000&color=00FF00&width=500&center=true&lines=Hello+World+👋;I'm+Pedro+Sangali;Data+Science+%26+AI+Student" 
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  🚀 Data Science & AI Student • 🧠 Curious Mind • 🎯 Driven by Innovation
+  🚀 Data Science & AI Student • 📊 Analytics Enthusiast • 🤖 AI Automation Explorer
 </p>
-
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 I'm currently studying **Data Science & Artificial Intelligence** at PUCRS.  
-🔍 I'm passionate about transforming data into insights and building smart solutions.  
-🛠️ Tools I enjoy working with: `Python`, `Pandas`, `Power BI`, `Business Intelligence (BI) & Analytics (BA)`, and `SQL`.  
-🤖 Recently exploring: `AI-powered automation`, `n8n workflows`, and `data storytelling`.                                                                                     
-💻 Personal site: https://lucasleuck.vercel.app/ 
+🎓 Data Science & Artificial Intelligence student at **PUCRS**  
+📈 Passionate about transforming data into insights and intelligent solutions  
+
+**Main tools & skills:**  
+`Python` • `Pandas` • `SQL` • `Power BI` • `BI & Analytics`  
+
+**Currently exploring:**  
+`AI-powered automation` • `n8n workflows` • `data storytelling`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&theme=transparent&include_all_commits=true&show_icons=true"/>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnk1&theme=transparent&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnk1&theme=transparent&layout=compact"/>
 </p>
 
 ---
-### 🧰 My Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pycharm,git,powershell,vscode,linux,,mysql,r," />
-  <br>
-  <img src="https://skillicons.dev/icons?i=githubactions,java,anaconda" />
-</div>
+## 🧰 Tech Stack
+
+### 🔹 Languages & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,mysql" />
+</p>
+
+### 🔹 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,pycharm,anaconda,linux,powershell" />
+</p>
