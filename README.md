@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pSangali&theme=transparent&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pSangali&theme=transparent&layout=compact"/>
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 ### 🔹 Languages & Data
