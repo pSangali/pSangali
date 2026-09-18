@@ -37,9 +37,7 @@
 
 ### 🤖 AI & Computer Vision
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=opencv" /> <br> <strong>YOLO</strong> </p>
 
 ### 🛠️ Tools & Platforms
 
