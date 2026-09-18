@@ -35,10 +35,6 @@
   <img src="https://skillicons.dev/icons?i=python,r,java,mysql" />
 </p>
 
-### 🤖 AI & Computer Vision
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=opencv" /> <br> <strong>YOLO</strong> </p>
-
 ### 🛠️ Tools & Platforms
 
 <p align="center">
