@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 Data Science & AI Student • 📊 Analytics Enthusiast • 🤖 AI Automation Explorer
+  🚀 Data Science & AI Student • 🤖 Computer Vision Researcher • 📊 Data & Analytics
 </p>
 
 ---
@@ -29,12 +29,20 @@
 
 ## 🧰 Tech Stack
 
-### 🔹 Languages & Data
+### 💻 Languages & Data
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,java,mysql" />
 </p>
 
-### 🔹 Tools & Platforms
+### 🤖 AI & Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+</p>
+
+### 🛠️ Tools & Platforms
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,pycharm,anaconda,linux,powershell" />
 </p>
