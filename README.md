@@ -15,14 +15,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 Data Science & Artificial Intelligence student at **PUCRS**  
-📈 Passionate about transforming data into insights and intelligent solutions  
+🎓 Data Science & Artificial Intelligence student at **PUCRS**
+🤖 Researcher in **Computer Vision & Autonomous Systems**
+📈 Passionate about AI, data and intelligent solutions
 
-**Main tools & skills:**  
-`Python` • `Pandas` • `SQL` • `Power BI` • `BI & Analytics`  
+**Main tools & skills:**
+`Python` • `YOLO` • `OpenCV` • `Pandas` • `SQL` • `Power BI` • `Linux`
 
-**Currently exploring:**  
-`AI-powered automation` 
+**Currently exploring:**
+`Object Detection` • `Deep Learning` • `Computer Vision` • `Image Processing` • `Autonomous Systems`
 
 ---
 
