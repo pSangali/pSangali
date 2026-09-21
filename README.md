@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 Data Science & Artificial Intelligence student at **PUCRS**
-🤖 Researcher in **Computer Vision & Autonomous Systems**
+🎓 Data Science & Artificial Intelligence student at **PUCRS** <br>
+🤖 Researcher in **Computer Vision & Autonomous Systems** <br>
 📈 Passionate about AI, data and intelligent solutions
 
 **Main tools & skills:**
